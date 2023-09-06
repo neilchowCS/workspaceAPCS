@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 5 elements to &apos;JMCh11_1BackToSchoo&apos;&#x0A;- Original project: &apos;JMCh11_1BackToSchool&apos;&#x0A;- Destination element: &apos;JMCh11_1BackToSchoo&apos;&#x0A;- Original elements:&#x0A;     BackToSchool.java&#x0A;     Person.java&#x0A;     CollegeStudent.java&#x0A;     Student.java&#x0A;     Teacher.java&#x0A;- Update references to refactored element" description="Move files" destination="=JMCh11_1BackToSchoo" element1="BackToSchool.java" element2="Person.java" element3="CollegeStudent.java" element4="Student.java" element5="Teacher.java" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1570728062392" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\nchow438\Dropbox\workspaceAPCS\.metadata\.plugins\org.eclipse.jdt.core
+790608100.index
+2274523398.index
+2767944627.index
+4252331938.index
+2327946276.index
+214006068.index
+390340958.index
+3219161045.index
+4221958282.index
